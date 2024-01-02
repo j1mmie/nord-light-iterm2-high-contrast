@@ -5,13 +5,14 @@ Based on <a href="https://github.com/brorbw/nord-light-iterm2">nord-light</a> wh
 based on the <a href="https://github.com/brorbw/nord">Nord</a> color palette.</p>
 
 <p align="center">
-<a href="https://github.com/j1mmie/nord-light-iterm2-high-contrast/releases/latest">
-
-<p align="center"><img src="assets/preview.gif"/><blockquote>Font: <a href="https://en.wikipedia.org/wiki/Menlo_(typeface)">Menlo</a> 16px.</blockquote></p>
+  <a href="https://github.com/j1mmie/nord-light-iterm2-high-contrast/blob/master/src/nord-light-high-contrast.itermcolors">
+    <img src="src/assets/preview.gif" alt="gif comparing original nord-light color scheme compared to new" />
+  </a>
+<blockquote>Font: <a href="https://en.wikipedia.org/wiki/Menlo_(typeface)">Menlo</a> 16px.</blockquote></p>
 
 ## Getting started
 ### Installation
-[Download](https://github.com/j1mmie/nord-light-iterm2-high-contrast/releases/latest) the latest [`nord-light-high-contrast.itermcolors`](https://github.com/j1mmie/nord-light-iterm2-high-contrast/blob/master/src/nord-light-high-contrast.itermcolors) file from the GitHub repository and import it:
+Download the latest [`nord-light-high-contrast.itermcolors`](https://github.com/j1mmie/nord-light-iterm2-high-contrast/blob/master/src/nord-light-high-contrast.itermcolors) file from this GitHub repository and import it:
   1. Start iTerm2 and open the *Preferences*
   2. Switch to the *Profiles* tab located in the topbar
   3. Select the *Colors* tabs on the right side
